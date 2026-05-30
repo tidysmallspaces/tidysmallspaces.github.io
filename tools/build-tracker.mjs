@@ -104,6 +104,10 @@ for (let i = 0; i < 60; i += 1) {
     "", "", 0, 0, 0, 0, 0, 0, 0, "",
   ]);
 }
+pinRows[0][6] = "Published";
+pinRows[0][7] = "https://www.pinterest.com/pin/1132233162595139388/";
+pinRows[0][8] = "https://tidysmallspaces.github.io/guides/no-drill-storage.html";
+pinRows[0][16] = "First organic Pin published.";
 pins.getRange("A2:Q61").values = pinRows;
 pins.getRange("B2:B61").format.numberFormat = "yyyy-mm-dd";
 pins.getRange("P2:P61").format.numberFormat = "$#,##0.00";
