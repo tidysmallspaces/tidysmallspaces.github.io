@@ -142,7 +142,7 @@ products.tables.add("A1:K25", true, "ProductsTable");
 
 setup.getRange("A1:D1").values = [["Step", "Owner", "Status", "Notes"]];
 header(setup, "A1:D1");
-setup.getRange("A2:D13").values = [
+setup.getRange("A2:D14").values = [
   ["Choose final brand name", "Together", "In progress", "Working name: Tidy Small Spaces"],
   ["Create Canva Free account", "You", "Not started", "No paid plan needed"],
   ["Confirm Pinterest business account and rename profile", "You", "Done", "Live profile: pinterest.com/tidysmallspaces/"],
@@ -151,17 +151,18 @@ setup.getRange("A2:D13").values = [
   ["Add Pinterest profile link to site", "Codex", "Done", "Live tidysmallspaces URL added"],
   ["Apply to Amazon.com Associates", "You", "Done", "Associate ID: tidysmallspac-20"],
   ["Register website in Associates", "You", "Done", "Registered website: tidysmallspaces.github.io"],
+  ["Complete Amazon payment and tax setup", "You", "Done", "Tax interview completed"],
   ["Add Associates tag links to guides", "Together", "In progress", "Create product links with SiteStripe using tidysmallspac-20"],
   ["Create first weekly Pin batch", "Codex", "Done", "10 upload-ready PNGs plus editable SVG sources"],
   ["Schedule first 10 Pins in Pinterest", "You", "Done", "Scheduled across five days at two Pins per day"],
   ["Review analytics after 14 days", "Together", "Blocked", "Use dashboard metrics"],
 ];
-setup.getRange("C2:C13").dataValidation = {
+setup.getRange("C2:C14").dataValidation = {
   rule: { type: "list", values: ["Not started", "In progress", "Blocked", "Done"] },
 };
 setup.freezePanes.freezeRows(1);
-setup.tables.add("A1:D13", true, "SetupTable");
-[36, 16, 16, 60].forEach((width, i) => setup.getRangeByIndexes(0, i, 13, 1).format.columnWidth = width);
+setup.tables.add("A1:D14", true, "SetupTable");
+[36, 16, 16, 60].forEach((width, i) => setup.getRangeByIndexes(0, i, 14, 1).format.columnWidth = width);
 
 ideas.getRange("A1:F1").values = [[
   "Content Cluster", "Pin Concept", "Best Template", "Guide Destination", "Visual Direction", "Status",
@@ -189,13 +190,13 @@ ideas.tables.add("A1:F13", true, "IdeasTable");
 [22, 54, 20, 22, 48, 14].forEach((width, i) => ideas.getRangeByIndexes(0, i, 13, 1).format.columnWidth = width);
 
 for (const [sheet, range] of [
-  [pins, "A2:Q61"], [products, "A2:K25"], [setup, "A2:D13"], [ideas, "A2:F13"],
+  [pins, "A2:Q61"], [products, "A2:K25"], [setup, "A2:D14"], [ideas, "A2:F13"],
 ]) {
   sheet.getRange(range).format.wrapText = true;
 }
 pins.getRange("A2:Q61").format.rowHeight = 42;
 products.getRange("A2:K25").format.rowHeight = 34;
-setup.getRange("A2:D13").format.rowHeight = 34;
+setup.getRange("A2:D14").format.rowHeight = 34;
 ideas.getRange("A2:F13").format.rowHeight = 42;
 
 const outputDir = "E:/Amazon Aff/outputs";
