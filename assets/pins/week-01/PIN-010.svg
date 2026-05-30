@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+    <rect width="1000" height="1500" fill="#F7F4ED"/>
+    <rect x="54" y="54" width="892" height="1392" rx="12" fill="#FFFDF9" stroke="#D8DED5" stroke-width="4"/>
+    
+  <text x="88" y="128" fill="#476655" font-family="Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="5">TIDY SMALL SPACES</text>
+  <text x="88" y="1410" fill="#617067" font-family="Arial, sans-serif" font-size="25">tidysmallspaces.github.io</text>
+    <text x="88" y="272" fill="#243229" font-family="Georgia, serif" font-size="78">7 Empty Spaces</text>
+<text x="88" y="360" fill="#243229" font-family="Georgia, serif" font-size="78">Renters Forget</text>
+<text x="88" y="448" fill="#243229" font-family="Georgia, serif" font-size="78">to Use</text>
+    <text x="88" y="575" fill="#617067" font-family="Arial, sans-serif" font-size="31">Renter-Friendly Storage Ideas</text>
+    <line x1="88" y1="625" x2="912" y2="625" stroke="#D8DED5" stroke-width="4"/>
+    
+      <circle cx="150" cy="695" r="48" fill="#DCE6D8"/>
+      <text x="135" y="715" fill="#476655" font-family="Georgia, serif" font-size="58">1</text>
+      <text x="235" y="711" fill="#243229" font-family="Arial, sans-serif" font-size="39" font-weight="700">Behind doors</text>
+      <circle cx="150" cy="865" r="48" fill="#DCE6D8"/>
+      <text x="135" y="885" fill="#476655" font-family="Georgia, serif" font-size="58">2</text>
+      <text x="235" y="881" fill="#243229" font-family="Arial, sans-serif" font-size="39" font-weight="700">Under furniture</text>
+      <circle cx="150" cy="1035" r="48" fill="#DCE6D8"/>
+      <text x="135" y="1055" fill="#476655" font-family="Georgia, serif" font-size="58">3</text>
+      <text x="235" y="1051" fill="#243229" font-family="Arial, sans-serif" font-size="39" font-weight="700">Above eye level</text>
+    <rect x="88" y="1260" width="824" height="86" rx="8" fill="#243229"/>
+    <text x="140" y="1316" fill="#FFFDF9" font-family="Arial, sans-serif" font-size="34" font-weight="700">Save the full guide for later</text>
+  </svg>

@@ -148,8 +148,8 @@ setup.getRange("A2:D13").values = [
   ["Apply to Amazon.com Associates", "You", "Blocked", "Do after website is public"],
   ["Register website and Pinterest profile in Associates", "You", "Blocked", "Needs both public URLs"],
   ["Add Associates tag links to guides", "Together", "Blocked", "Only create links inside Associates"],
-  ["Create first weekly Pin batch", "Together", "Not started", "14 original Pins"],
-  ["Schedule first 10 Pins in Pinterest", "You", "Blocked", "Needs Pinterest profile and designs"],
+  ["Create first weekly Pin batch", "Codex", "Done", "10 upload-ready PNGs plus editable SVG sources"],
+  ["Schedule first 10 Pins in Pinterest", "You", "Not started", "Use assets/pins/week-01 and publish no more than two per day"],
   ["Review analytics after 14 days", "Together", "Blocked", "Use dashboard metrics"],
 ];
 setup.getRange("C2:C13").dataValidation = {
