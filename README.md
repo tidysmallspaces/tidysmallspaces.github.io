@@ -3,6 +3,8 @@
 Free starter site for a small-space organization content project using GitHub Pages,
 Pinterest, Canva Free, and Amazon Associates.
 
+Live website: `https://davideskoundosincome.github.io/tidy-small-spaces/`
+
 ## Publish on GitHub Pages
 
 1. Create a public GitHub repository.
@@ -17,8 +19,8 @@ Pinterest, Canva Free, and Amazon Associates.
 1. Use the Pinterest business profile at
    `https://www.pinterest.com/tidysmallspaces/`.
 2. Create a Canva Free account.
-3. Publish the GitHub Pages site and add the live website URL to the Pinterest
-   profile.
+3. Add `https://davideskoundosincome.github.io/tidy-small-spaces/` to the
+   Pinterest profile.
 4. Apply to Amazon.com Associates only after the public site has useful content.
 5. Register the GitHub Pages site and Pinterest profile as promotional sites in
    Amazon Associates.

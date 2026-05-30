@@ -5,7 +5,7 @@
 - **Display name:** Tidy Small Spaces
 - **Preferred username:** `tidysmallspaces`
 - **Profile URL:** `https://www.pinterest.com/tidysmallspaces/`
-- **Website:** Add the GitHub Pages URL after Pages is enabled.
+- **Website:** `https://davideskoundosincome.github.io/tidy-small-spaces/`
 - **Bio:** Practical renter-friendly organization ideas for small apartments. Simple storage checklists, entryway resets, and measure-first tips for calmer everyday living.
 
 ## First boards
