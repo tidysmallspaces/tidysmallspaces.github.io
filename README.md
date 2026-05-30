@@ -14,11 +14,11 @@ Pinterest, Canva Free, and Amazon Associates.
 
 ## Account setup checklist
 
-1. Confirm that the existing Pinterest account is a business account and rename
-   the public username from `davidforexe` to a brand-aligned name if available.
+1. Use the Pinterest business profile at
+   `https://www.pinterest.com/tidysmallspaces/`.
 2. Create a Canva Free account.
-3. Publish the GitHub Pages site. The starter footer currently links to
-   `https://www.pinterest.com/davidforexe/`; update it after the username is renamed.
+3. Publish the GitHub Pages site and add the live website URL to the Pinterest
+   profile.
 4. Apply to Amazon.com Associates only after the public site has useful content.
 5. Register the GitHub Pages site and Pinterest profile as promotional sites in
    Amazon Associates.

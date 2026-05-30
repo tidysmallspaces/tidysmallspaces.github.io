@@ -141,10 +141,10 @@ header(setup, "A1:D1");
 setup.getRange("A2:D13").values = [
   ["Choose final brand name", "Together", "In progress", "Working name: Tidy Small Spaces"],
   ["Create Canva Free account", "You", "Not started", "No paid plan needed"],
-  ["Confirm Pinterest business account and rename profile", "You", "In progress", "Current profile: pinterest.com/davidforexe/"],
+  ["Confirm Pinterest business account and rename profile", "You", "Done", "Live profile: pinterest.com/tidysmallspaces/"],
   ["Make GitHub repository public", "You", "In progress", "Repository pushed; switch visibility to Public for GitHub Pages Free"],
   ["Publish GitHub Pages site", "You + Codex", "Blocked", "Enable Pages from main / (root) after repository is public"],
-  ["Add Pinterest profile link to site", "Codex", "Done", "Temporary davidforexe URL added; update after rename"],
+  ["Add Pinterest profile link to site", "Codex", "Done", "Live tidysmallspaces URL added"],
   ["Apply to Amazon.com Associates", "You", "Blocked", "Do after website is public"],
   ["Register website and Pinterest profile in Associates", "You", "Blocked", "Needs both public URLs"],
   ["Add Associates tag links to guides", "Together", "Blocked", "Only create links inside Associates"],
