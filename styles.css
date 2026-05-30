@@ -292,6 +292,25 @@ footer {
   padding: 16px;
 }
 
+.amazon-recommendation {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--leaf);
+  border-radius: 6px;
+  margin: 24px 0;
+  padding: 18px;
+}
+
+.amazon-recommendation p {
+  color: var(--muted);
+  margin: 6px 0 12px;
+}
+
+.amazon-recommendation a {
+  color: var(--leaf);
+  font-weight: 700;
+}
+
 @media (max-width: 760px) {
   nav {
     gap: 14px;
