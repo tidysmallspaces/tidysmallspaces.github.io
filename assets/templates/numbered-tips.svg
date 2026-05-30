@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#F7F4ED"/>
+  <rect x="54" y="54" width="892" height="1392" rx="12" fill="#FFFDF9" stroke="#D8DED5" stroke-width="4"/>
+  <text x="110" y="145" fill="#476655" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="5">TIDY SMALL SPACES</text>
+  <text x="110" y="285" fill="#243229" font-family="Georgia, serif" font-size="92">7 small-space</text>
+  <text x="110" y="390" fill="#243229" font-family="Georgia, serif" font-size="92">storage ideas</text>
+  <text x="110" y="472" fill="#617067" font-family="Arial, sans-serif" font-size="38">that renters can try today</text>
+  <line x1="110" y1="550" x2="890" y2="550" stroke="#D8DED5" stroke-width="4"/>
+  <circle cx="166" cy="690" r="53" fill="#DCE6D8"/>
+  <text x="144" y="712" fill="#476655" font-family="Georgia, serif" font-size="64">1</text>
+  <text x="255" y="704" fill="#243229" font-family="Arial, sans-serif" font-size="42" font-weight="700">Use the back of a door</text>
+  <circle cx="166" cy="870" r="53" fill="#DCE6D8"/>
+  <text x="144" y="892" fill="#476655" font-family="Georgia, serif" font-size="64">2</text>
+  <text x="255" y="884" fill="#243229" font-family="Arial, sans-serif" font-size="42" font-weight="700">Look under the bed</text>
+  <circle cx="166" cy="1050" r="53" fill="#DCE6D8"/>
+  <text x="144" y="1072" fill="#476655" font-family="Georgia, serif" font-size="64">3</text>
+  <text x="255" y="1064" fill="#243229" font-family="Arial, sans-serif" font-size="42" font-weight="700">Use your wall height</text>
+  <rect x="110" y="1210" width="780" height="120" rx="8" fill="#243229"/>
+  <text x="168" y="1285" fill="#FFFDF9" font-family="Arial, sans-serif" font-size="37" font-weight="700">Read the full checklist</text>
+  <text x="110" y="1390" fill="#617067" font-family="Arial, sans-serif" font-size="27">tidy-small-spaces.github.io</text>
+</svg>

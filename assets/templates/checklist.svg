@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#F7F4ED"/>
+  <rect x="74" y="70" width="852" height="1360" rx="12" fill="#FFFDF9" stroke="#D8DED5" stroke-width="4"/>
+  <text x="126" y="160" fill="#476655" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="5">TIDY SMALL SPACES</text>
+  <text x="126" y="315" fill="#243229" font-family="Georgia, serif" font-size="88">Measure this</text>
+  <text x="126" y="415" fill="#243229" font-family="Georgia, serif" font-size="88">before buying</text>
+  <text x="126" y="515" fill="#243229" font-family="Georgia, serif" font-size="88">under-bed bins</text>
+  <line x1="126" y1="595" x2="874" y2="595" stroke="#D8DED5" stroke-width="4"/>
+  <rect x="126" y="688" width="58" height="58" rx="6" fill="#DCE6D8" stroke="#476655" stroke-width="3"/>
+  <path d="M140 717l13 13 22-29" fill="none" stroke="#476655" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <text x="226" y="731" fill="#243229" font-family="Arial, sans-serif" font-size="42" font-weight="700">Usable height</text>
+  <rect x="126" y="818" width="58" height="58" rx="6" fill="#DCE6D8" stroke="#476655" stroke-width="3"/>
+  <path d="M140 847l13 13 22-29" fill="none" stroke="#476655" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <text x="226" y="861" fill="#243229" font-family="Arial, sans-serif" font-size="42" font-weight="700">Width and depth</text>
+  <rect x="126" y="948" width="58" height="58" rx="6" fill="#DCE6D8" stroke="#476655" stroke-width="3"/>
+  <path d="M140 977l13 13 22-29" fill="none" stroke="#476655" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <text x="226" y="991" fill="#243229" font-family="Arial, sans-serif" font-size="42" font-weight="700">Room to pull it out</text>
+  <rect x="126" y="1078" width="58" height="58" rx="6" fill="#DCE6D8" stroke="#476655" stroke-width="3"/>
+  <path d="M140 1107l13 13 22-29" fill="none" stroke="#476655" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <text x="226" y="1121" fill="#243229" font-family="Arial, sans-serif" font-size="42" font-weight="700">What belongs inside</text>
+  <rect x="126" y="1240" width="748" height="92" rx="8" fill="#243229"/>
+  <text x="177" y="1298" fill="#FFFDF9" font-family="Arial, sans-serif" font-size="34" font-weight="700">Save the full checklist</text>
+  <text x="126" y="1390" fill="#617067" font-family="Arial, sans-serif" font-size="27">tidy-small-spaces.github.io</text>
+</svg>

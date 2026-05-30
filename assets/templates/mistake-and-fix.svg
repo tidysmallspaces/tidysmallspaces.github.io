@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#DCE6D8"/>
+  <text x="86" y="132" fill="#476655" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="5">TIDY SMALL SPACES</text>
+  <text x="86" y="290" fill="#243229" font-family="Georgia, serif" font-size="92">Stop buying</text>
+  <text x="86" y="395" fill="#243229" font-family="Georgia, serif" font-size="92">storage bins</text>
+  <text x="86" y="500" fill="#243229" font-family="Georgia, serif" font-size="92">before this.</text>
+  <rect x="86" y="610" width="828" height="272" rx="10" fill="#FFFDF9"/>
+  <text x="132" y="686" fill="#C0785D" font-family="Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="3">THE MISTAKE</text>
+  <text x="132" y="768" fill="#243229" font-family="Arial, sans-serif" font-size="43" font-weight="700">Buying containers before</text>
+  <text x="132" y="826" fill="#243229" font-family="Arial, sans-serif" font-size="43" font-weight="700">measuring the actual space.</text>
+  <rect x="86" y="916" width="828" height="272" rx="10" fill="#476655"/>
+  <text x="132" y="992" fill="#DCE6D8" font-family="Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="3">THE FIX</text>
+  <text x="132" y="1074" fill="#FFFDF9" font-family="Arial, sans-serif" font-size="43" font-weight="700">Measure height, width, depth,</text>
+  <text x="132" y="1132" fill="#FFFDF9" font-family="Arial, sans-serif" font-size="43" font-weight="700">and the path out first.</text>
+  <text x="86" y="1347" fill="#243229" font-family="Arial, sans-serif" font-size="35" font-weight="700">Save this before your next reset</text>
+  <text x="86" y="1410" fill="#617067" font-family="Arial, sans-serif" font-size="27">tidy-small-spaces.github.io</text>
+</svg>
