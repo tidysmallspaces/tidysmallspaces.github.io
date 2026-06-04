@@ -107,7 +107,34 @@ for (let i = 0; i < 60; i += 1) {
 pinRows[0][6] = "Published";
 pinRows[0][7] = "https://www.pinterest.com/pin/1132233162595139388/";
 pinRows[0][8] = "https://tidysmallspaces.github.io/guides/no-drill-storage.html";
-pinRows[0][16] = "First organic Pin published.";
+pinRows[0][9] = 53;
+pinRows[0][10] = 0;
+pinRows[0][11] = 0;
+pinRows[0][13] = 1;
+pinRows[0][14] = 0;
+pinRows[0][15] = 0;
+pinRows[0][16] = "Best engagement: 14 Pin clicks, no outbound clicks.";
+const weekOneMetrics = [
+  [38, 0, 0, 1],
+  [34, 0, 0, 0],
+  [32, 0, 0, 0],
+  [30, 0, 0, 0],
+  [20, 0, 0, 0],
+  [15, 0, 0, 0],
+  [11, 0, 0, 0],
+  [6, 0, 0, 0],
+  [1, 0, 0, 0],
+];
+weekOneMetrics.forEach(([impressions, saves, outboundClicks, pinClicks], index) => {
+  const row = index + 1;
+  pinRows[row][6] = "Published";
+  pinRows[row][9] = impressions;
+  pinRows[row][10] = saves;
+  pinRows[row][11] = outboundClicks;
+  pinRows[row][14] = 0;
+  pinRows[row][15] = 0;
+  pinRows[row][16] = `Pin clicks: ${pinClicks}; no outbound clicks.`;
+});
 pins.getRange("A2:Q61").values = pinRows;
 pins.getRange("B2:B61").format.numberFormat = "yyyy-mm-dd";
 pins.getRange("P2:P61").format.numberFormat = "$#,##0.00";
