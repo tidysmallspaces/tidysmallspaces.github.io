@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#F7F4ED"/>
+  <rect x="54" y="54" width="892" height="1392" rx="12" fill="#FFFDF9" stroke="#D8DED5" stroke-width="4"/>
+  <text x="88" y="128" fill="#476655" font-family="Arial" font-size="27" font-weight="700" letter-spacing="5">TIDY SMALL SPACES</text>
+  <text x="88" y="275" fill="#243229" font-family="Georgia" font-size="73">Empty Spaces</text>
+<text x="88" y="359" fill="#243229" font-family="Georgia" font-size="73">You Can Use</text>
+<text x="88" y="443" fill="#243229" font-family="Georgia" font-size="73">This Weekend</text>
+  <text x="88" y="590" fill="#617067" font-family="Arial" font-size="31">Unused spaces checklist</text>
+  <line x1="88" y1="640" x2="912" y2="640" stroke="#D8DED5" stroke-width="4"/>
+  <rect x="620" y="640" width="290" height="300" rx="16" fill="#DCE6D8"/><path d="M650 840h250M650 740h250M735 640v300" stroke="#FFFDF9" stroke-width="12"/><circle cx="705" cy="710" r="18" fill="#476655"/><circle cx="820" cy="815" r="18" fill="#D7A276"/>
+  <circle cx="112" cy="837" r="24" fill="#DCE6D8"/><text x="102" y="850" fill="#476655" font-family="Georgia" font-size="35">1</text><text x="158" y="850" fill="#243229" font-family="Arial" font-size="31" font-weight="700">Cabinet doors</text>
+<circle cx="112" cy="929" r="24" fill="#DCE6D8"/><text x="102" y="942" fill="#476655" font-family="Georgia" font-size="35">2</text><text x="158" y="942" fill="#243229" font-family="Arial" font-size="31" font-weight="700">Closet floor</text>
+<circle cx="112" cy="1021" r="24" fill="#DCE6D8"/><text x="102" y="1034" fill="#476655" font-family="Georgia" font-size="35">3</text><text x="158" y="1034" fill="#243229" font-family="Arial" font-size="31" font-weight="700">Narrow gaps</text>
+  <rect x="88" y="1248" width="824" height="88" rx="8" fill="#243229"/>
+  <text x="140" y="1305" fill="#FFFDF9" font-family="Arial" font-size="34" font-weight="700">Get the full guide</text>
+  <text x="88" y="1408" fill="#617067" font-family="Arial" font-size="25">tidysmallspaces.github.io</text>
+</svg>
