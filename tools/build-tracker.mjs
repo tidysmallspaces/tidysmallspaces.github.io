@@ -107,23 +107,23 @@ for (let i = 0; i < 60; i += 1) {
 pinRows[0][6] = "Published";
 pinRows[0][7] = "https://www.pinterest.com/pin/1132233162595139388/";
 pinRows[0][8] = "https://tidysmallspaces.github.io/guides/no-drill-storage.html";
-pinRows[0][9] = 53;
+pinRows[0][9] = 55;
 pinRows[0][10] = 0;
-pinRows[0][11] = 0;
+pinRows[0][11] = 4;
 pinRows[0][13] = 1;
 pinRows[0][14] = 0;
 pinRows[0][15] = 0;
-pinRows[0][16] = "Best engagement: 14 Pin clicks, no outbound clicks.";
+pinRows[0][16] = "Best result: 14 Pin clicks and 4 outbound clicks.";
 const weekOneMetrics = [
-  [38, 0, 0, 1],
+  [40, 0, 0, 1],
+  [36, 0, 0, 0],
   [34, 0, 0, 0],
   [32, 0, 0, 0],
-  [30, 0, 0, 0],
-  [20, 0, 0, 0],
-  [15, 0, 0, 0],
-  [11, 0, 0, 0],
-  [6, 0, 0, 0],
-  [1, 0, 0, 0],
+  [22, 0, 0, 0],
+  [17, 0, 0, 0],
+  [13, 0, 0, 0],
+  [8, 0, 0, 0],
+  [3, 0, 0, 0],
 ];
 weekOneMetrics.forEach(([impressions, saves, outboundClicks, pinClicks], index) => {
   const row = index + 1;
